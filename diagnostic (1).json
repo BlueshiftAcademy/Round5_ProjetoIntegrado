@@ -1,0 +1,22 @@
+{
+    "now": "2021-11-04T15:29:07.083Z",
+    "perfNow": 12153207.30000019,
+    "diagnosticCorrelation": "156d982d-a86b-4ac9-9469-083612794162",
+    "source": "DownloadSupportFiles",
+    "environment": {
+        "productName": "adf",
+        "buildVersion": "1.0.20211102.3",
+        "environmentType": 3,
+        "resourceName": "grupo-03",
+        "resourceRegion": "eastus",
+        "resourceGroup": "blueshift-academy",
+        "subscriptionId": "e9f266b7-47a3-4c25-a8b7-522266df7180",
+        "sessionId": "6gQMo",
+        "operationId": "xF7Ul",
+        "gitType": "GitHub"
+    },
+    "additionalInfo": {
+        "selectedResource": "blob_e_banco",
+        "selectedResourceType": "pipeline"
+    }
+}
